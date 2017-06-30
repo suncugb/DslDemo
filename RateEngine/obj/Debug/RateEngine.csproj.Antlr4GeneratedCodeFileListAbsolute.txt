@@ -1,6 +1,0 @@
-D:\my documents\visual studio 2013\Projects\RateEngine\RateEngine\obj\Debug\RateGrammarLexer.cs
-D:\my documents\visual studio 2013\Projects\RateEngine\RateEngine\obj\Debug\RateGrammarParser.cs
-D:\my documents\visual studio 2013\Projects\RateEngine\RateEngine\obj\Debug\RateGrammarListener.cs
-D:\my documents\visual studio 2013\Projects\RateEngine\RateEngine\obj\Debug\RateGrammarBaseListener.cs
-D:\my documents\visual studio 2013\Projects\RateEngine\RateEngine\obj\Debug\RateGrammarVisitor.cs
-D:\my documents\visual studio 2013\Projects\RateEngine\RateEngine\obj\Debug\RateGrammarBaseVisitor.cs
